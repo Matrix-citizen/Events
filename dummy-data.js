@@ -7,7 +7,7 @@ const DUMMY_EVENTS = [
     location: 'Somestreet 25, 12345 San Somewhereo',
     date: '2021-05-12',
     image: 'images/launch-event.jpg',
-    isFeatured: false,
+    isFeatured: true,
   },
   {
     id: 'e2',
